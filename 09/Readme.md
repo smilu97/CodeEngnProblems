@@ -3,7 +3,7 @@ Challenges : Basic 09
 Author : abex
 
 Korean : 
-StolenByte¸¦ ±¸ÇÏ½Ã¿À 
+StolenByteë¥¼ êµ¬í•˜ì‹œì˜¤ 
 Ex) 75156A0068352040 
 
 English : 
