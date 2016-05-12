@@ -3,7 +3,7 @@ Challenges : Basic 15
 Author : uBc - bRiANbuSY
 
 Korean : 
-NameÀÌ CodeEngnÀÏ¶§ SerialÀ» ±¸ÇÏ½Ã¿À 
+NameÃ€ÃŒ CodeEngnì¼ë•Œ Serialì„ êµ¬í•˜ì‹œì˜¤
 
 English : 
 Find the Serial when the Name is CodeEngn 
