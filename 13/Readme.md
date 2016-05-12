@@ -4,7 +4,7 @@ Challenges : Basic 13
 Author : Basse 2002
 
 Korean : 
-Á¤´äÀº ¹«¾ùÀÎ°¡ 
+ì •ë‹µì€ ë¬´ì—‡ì¸ê°€ 
 
 English : 
 Find the answer 
