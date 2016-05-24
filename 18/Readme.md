@@ -1,6 +1,6 @@
 Challenges : Basic 18
 Korean : 
-NameÀÌ CodeEngnÀÏ¶§ SerialÀº ¹«¾ùÀÎ°¡ 
+Nameì´ CodeEngnì¼ë•Œ Serialì€ ë¬´ì—‡ì¸ê°€ 
 
 English : 
 Find the Serial when the Name is CodeEngn. 
